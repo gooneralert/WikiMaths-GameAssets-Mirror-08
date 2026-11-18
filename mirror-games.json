@@ -1,0 +1,485 @@
+[
+  {
+    "slug": "worldbox-sandbox-god-sim",
+    "title": "WorldBox - Sandbox God Sim",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "",
+    "description": "",
+    "tags": [],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 138811995,
+    "thumbnail": "/thumbs/truffled/worldbox-sandbox-god-sim.webp"
+  },
+  {
+    "slug": "drift-hunters",
+    "title": "Drift Hunters",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "Ilya Kaminetsky",
+    "description": "Race on numerous challenging and crazy racetracks and customize your supercars! In Drift Hunters, players will enjoy the  driving experience of a real sports car. You can tune-up the engine, transmission, turbocharger, brakes, and more. Try to find your perfect setup. You can also change the colors and types of the body and rims.",
+    "tags": [
+      "Action",
+      "Driving",
+      "Simulation",
+      "Open World",
+      "Physics"
+    ],
+    "controls": [
+      {
+        "action": "Accelerate",
+        "keys": [
+          {
+            "key": "ArrowUp",
+            "keyCode": 38
+          },
+          {
+            "key": "KeyW",
+            "keyCode": 87
+          }
+        ]
+      },
+      {
+        "action": "Reverse",
+        "keys": [
+          {
+            "key": "ArrowDown",
+            "keyCode": 40
+          },
+          {
+            "key": "KeyS",
+            "keyCode": 83
+          }
+        ]
+      },
+      {
+        "action": "Turn Right",
+        "keys": [
+          {
+            "key": "ArrowRight",
+            "keyCode": 39
+          },
+          {
+            "key": "KeyD",
+            "keyCode": 68
+          }
+        ]
+      },
+      {
+        "action": "Turn Left",
+        "keys": [
+          {
+            "key": "ArrowLeft",
+            "keyCode": 37
+          },
+          {
+            "key": "KeyA",
+            "keyCode": 65
+          }
+        ]
+      },
+      {
+        "action": "Change Camera",
+        "keys": [
+          {
+            "key": "KeyC",
+            "keyCode": 67
+          }
+        ]
+      },
+      {
+        "action": "Break",
+        "keys": [
+          {
+            "key": "Space",
+            "keyCode": 32
+          }
+        ]
+      },
+      {
+        "action": "Gear Up",
+        "keys": [
+          {
+            "key": "ShiftLeft",
+            "keyCode": 16
+          }
+        ]
+      },
+      {
+        "action": "Gear Down",
+        "keys": [
+          {
+            "key": "ControlLeft",
+            "keyCode": 17
+          }
+        ]
+      }
+    ],
+    "gamepadControls": [
+      {
+        "action": "Accelerate",
+        "axes": [
+          {
+            "index": 1,
+            "direction": -1
+          }
+        ]
+      },
+      {
+        "action": "Reverse",
+        "axes": [
+          {
+            "index": 1,
+            "direction": 1
+          }
+        ]
+      },
+      {
+        "action": "Turn Right",
+        "axes": [
+          {
+            "index": 0,
+            "direction": 1
+          }
+        ]
+      },
+      {
+        "action": "Turn Left",
+        "axes": [
+          {
+            "index": 0,
+            "direction": -1
+          }
+        ]
+      },
+      {
+        "action": "Change Camera",
+        "buttons": [
+          2
+        ]
+      },
+      {
+        "action": "Break",
+        "buttons": [
+          1
+        ]
+      },
+      {
+        "action": "Gear Up",
+        "buttons": [
+          6
+        ]
+      },
+      {
+        "action": "Gear Down",
+        "buttons": [
+          7
+        ]
+      }
+    ],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 141172176,
+    "thumbnail": "/thumbs/obsidian/drift-hunters.webp"
+  },
+  {
+    "slug": "pikuniku",
+    "title": "Pikuniku",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "Sectordub",
+    "description": "Pikuniku is an absurdly wonderful puzzle-exploration game that takes place in a strange but playful world where not everything is as happy as it seems. Help peculiar characters overcome struggles, uncover a deep state conspiracy, and start a little revolution in this delightful dystopian adventure!",
+    "tags": [
+      "2D",
+      "Adventure",
+      "Puzzle",
+      "Stylized",
+      "Story Rich",
+      "Indie"
+    ],
+    "controls": [
+      {
+        "action": "Pause",
+        "keys": [
+          {
+            "key": "KeyP",
+            "keyCode": 80
+          }
+        ]
+      },
+      {
+        "action": "Inventory",
+        "keys": [
+          {
+            "key": "KeyH",
+            "keyCode": 72
+          }
+        ]
+      },
+      {
+        "action": "Jump",
+        "keys": [
+          {
+            "key": "ArrowUp",
+            "keyCode": 38
+          }
+        ]
+      },
+      {
+        "action": "Move Left",
+        "keys": [
+          {
+            "key": "ArrowLeft",
+            "keyCode": 37
+          }
+        ]
+      },
+      {
+        "action": "Move Right",
+        "keys": [
+          {
+            "key": "ArrowRight",
+            "keyCode": 39
+          }
+        ]
+      },
+      {
+        "action": "Dialogue",
+        "keys": [
+          {
+            "key": "KeyZ",
+            "keyCode": 90
+          }
+        ]
+      },
+      {
+        "action": "Action/Kick",
+        "keys": [
+          {
+            "key": "KeyC",
+            "keyCode": 67
+          }
+        ]
+      },
+      {
+        "action": "Roll",
+        "keys": [
+          {
+            "key": "KeyX",
+            "keyCode": 88
+          }
+        ]
+      }
+    ],
+    "gamepadControls": [
+      {
+        "action": "Pause",
+        "buttons": [
+          9
+        ]
+      },
+      {
+        "action": "Inventory",
+        "buttons": [
+          4
+        ]
+      },
+      {
+        "action": "Jump",
+        "buttons": [
+          0
+        ]
+      },
+      {
+        "action": "Move Left",
+        "buttons": [
+          14
+        ],
+        "axes": [
+          {
+            "index": 0,
+            "direction": -1
+          }
+        ]
+      },
+      {
+        "action": "Move Right",
+        "buttons": [
+          15
+        ],
+        "axes": [
+          {
+            "index": 0,
+            "direction": 1
+          }
+        ]
+      },
+      {
+        "action": "Dialogue",
+        "buttons": [
+          3
+        ]
+      },
+      {
+        "action": "Action/Kick",
+        "buttons": [
+          2
+        ]
+      },
+      {
+        "action": "Roll",
+        "buttons": [
+          1
+        ]
+      }
+    ],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 141398503,
+    "thumbnail": "/thumbs/obsidian/pikuniku.webp"
+  },
+  {
+    "slug": "endoparasitic",
+    "title": "Endoparasitic",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "Miziziziz",
+    "description": "Three limbs ripped off, infected with a deadly parasite, you must save your research. Drag yourself through the corridors of a secret research lab on a remote asteroid, fight off horribly mutated monsters, inject countless syringes of vaccines, and survive at all costs.",
+    "tags": [
+      "Shooter",
+      "Strategy",
+      "Survival",
+      "Horror",
+      "Action"
+    ],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 143431489,
+    "thumbnail": "/thumbs/obsidian/endoparasitic.webp"
+  },
+  {
+    "slug": "five-nights-at-candys",
+    "title": "Five Nights At Candys",
+    "type": "HTML",
+    "entry": "/fnac.html",
+    "developer": "",
+    "description": "",
+    "tags": [],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 146338834,
+    "thumbnail": "/thumbs/truffled/five-nights-at-candys.webp"
+  },
+  {
+    "slug": "tetrisweeper",
+    "title": "Tetrisweeper",
+    "type": "HTML",
+    "entry": "/",
+    "developer": "",
+    "description": "",
+    "tags": [],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 148974495,
+    "thumbnail": "/thumbs/truffled/tetrisweeper.webp"
+  },
+  {
+    "slug": "the-binding-of-issac-rebirth",
+    "title": "The Binding Of Issac: Rebirth",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "",
+    "description": "",
+    "tags": [],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 151197363,
+    "thumbnail": ""
+  },
+  {
+    "slug": "ambidextro",
+    "title": "Ambidextro",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "Majorariatto",
+    "description": "A witch has kidnapped the prince and the princess. As the royal wizard, you have been severed in half so you can go rescue both at the same time, but first you'll need to learn to control the two halves of your body simultaneously. With a series of quick single-screen platforming levels, Ambidextro will help you master controlling two characters at once, one with each hand. Learn to split your focus and tackle increasingly challenging levels you would have thought impossible. Â· A multi-player game for a single player. Â· Control one character with each hand. Â· Make your two-halves meet before the time runs out. Â· 100 levels to conquer. Â· Retro dark-fantasy atmosphere with a dungeon synth soundtrack.",
+    "tags": [
+      "Platformer",
+      "2D Platformer",
+      "Difficult",
+      "Action",
+      "Indie",
+      "Singleplayer"
+    ],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 151994725,
+    "thumbnail": "/thumbs/obsidian/ambidextro.webp"
+  },
+  {
+    "slug": "grand-theft-auto-vice-city",
+    "title": "Grand Theft Auto: Vice City",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "Rockstar Games",
+    "description": "Experience the genre-defining classic, updated for a new generation with across-the-board enhancements including brilliant new lighting and environmental upgrades, with high-resolution textures, increased draw distance, Grand Theft Auto V-style controls and targeting, and much more. Welcome to the 1980s. From the decade of big hair and pastel suits comes the story of one man's rise to the top of the criminal pile. Grand Theft Auto returns with Tommy Vercetti's tale of betrayal and revenge in a neon-soaked tropical town full of excess and brimming with possibilities. Developed by Rockstar Games, adapted by Grove Street Games.",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Open World",
+      "3D",
+      "3D Platformer"
+    ],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 152282379,
+    "thumbnail": "/thumbs/obsidian/grand-theft-auto-vice-city.webp"
+  },
+  {
+    "slug": "black-hole-fishing",
+    "title": "Black Hole Fishing",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "SDG Games",
+    "description": "Black Hole Fishing is an incremental game about catching absurd numbers of fish using a black hole. Suck fish straight out of the pond, automate restocking and perform questionable fish science. Upgrade it all. Repeat. Build the World's Most Ridiculous Fish Pond Start with a humble pond. Catch exotic fish, stock your waters, and then remove those fancy fish from reality using a hungry singularity. Feed the black hole to make it stronger. Bigger the hole, better the fishing. Do Extremely Normal Fish Science Why wait for evolution when you can speedrun it. Inject traits directly into your fish. Paint them. Compare your fish. Choose the winners. Cross-breed them and see what happens. Launch your favorites out of a cannon for profit and bonuses. This is all for fun and definitely not concerning! Unlock powerful tools like the Large Halibut Colliderâ¢, combine fish at alarming speeds, discover all six Quantum Sharks, and push your understanding of mysterious singularities far beyond what anyone asked for. Important",
+    "tags": [
+      "Idle",
+      "Clicker",
+      "Incremental",
+      "Relaxing",
+      "Space",
+      "Simulation"
+    ],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 154466156,
+    "thumbnail": "/thumbs/obsidian/black-hole-fishing.webp"
+  }
+]

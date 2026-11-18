@@ -1,0 +1,99 @@
+{
+  "slug": "black-hole-fishing",
+  "title": "Black Hole Fishing",
+  "type": "HTML",
+  "developer": "SDG Games",
+  "description": "Black Hole Fishing is an incremental game about catching absurd numbers of fish using a black hole. Suck fish straight out of the pond, automate restocking and perform questionable fish science. Upgrade it all. Repeat. Build the World's Most Ridiculous Fish Pond Start with a humble pond. Catch exotic fish, stock your waters, and then remove those fancy fish from reality using a hungry singularity. Feed the black hole to make it stronger. Bigger the hole, better the fishing. Do Extremely Normal Fish Science Why wait for evolution when you can speedrun it. Inject traits directly into your fish. Paint them. Compare your fish. Choose the winners. Cross-breed them and see what happens. Launch your favorites out of a cannon for profit and bonuses. This is all for fun and definitely not concerning! Unlock powerful tools like the Large Halibut Colliderâ¢, combine fish at alarming speeds, discover all six Quantum Sharks, and push your understanding of mysterious singularities far beyond what anyone asked for. Important",
+  "tags": [
+    "Idle",
+    "Clicker",
+    "Incremental",
+    "Relaxing",
+    "Space",
+    "Simulation"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f",
+  "sourceVersion": "1.0.3.1.Web",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/index.html",
+  "status": "done",
+  "sizeBytes": 154466156,
+  "assetCount": 14,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/godot.audio.position.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/godot.web.template_debug.wasm32.nothreads.wasm",
+    "https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/godot.audio.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/.audio.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/.side.wasm",
+    "https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/.js",
+    "https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/.audio.position.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/godot.audio.position.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/godot.audio.position.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/godot.web.template_debug.wasm32.nothreads.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/godot.web.template_debug.wasm32.nothreads.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/godot.audio.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/godot.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/.audio.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/.side.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/.side.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/.audio.position.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/.audio.position.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7b17e8fa-518d-44db-8dc7-b5ce2c3c2c0f/1.0.3.1.Web/.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:18:16.896Z",
+  "verifiedAt": "2026-11-16T13:50:46.657Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Black Hole Fishing (DEBUG)",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.8775,
+    "rendered": true
+  }
+}

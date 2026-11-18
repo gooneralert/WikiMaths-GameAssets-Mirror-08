@@ -1,0 +1,106 @@
+{
+  "mirror/drift-hunters/__external__/media.githubusercontent.com/media/EmulatorOS/gfile/main/drift/Build/ItchIO.data.unityweb": {
+    "size": 134902255,
+    "parts": [
+      {
+        "path": "mirror/drift-hunters/__external__/media.githubusercontent.com/media/EmulatorOS/gfile/main/drift/Build/ItchIO.data.unityweb.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/drift-hunters/__external__/media.githubusercontent.com/media/EmulatorOS/gfile/main/drift/Build/ItchIO.data.unityweb.part002",
+        "size": 44902255
+      }
+    ]
+  },
+  "mirror/pikuniku/Build/pikubog.data.unityweb": {
+    "size": 104624899,
+    "parts": [
+      {
+        "path": "mirror/pikuniku/Build/pikubog.data.unityweb.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/pikuniku/Build/pikubog.data.unityweb.part002",
+        "size": 14624899
+      }
+    ]
+  },
+  "mirror/endoparasitic/Endoparasitic.pck": {
+    "size": 129277680,
+    "parts": [
+      {
+        "path": "mirror/endoparasitic/Endoparasitic.pck.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/endoparasitic/Endoparasitic.pck.part002",
+        "size": 39277680
+      }
+    ]
+  },
+  "mirror/tetrisweeper/Build/Tetrisweeper 1.8.8 HTML Brotli.data.unityweb": {
+    "size": 137693180,
+    "parts": [
+      {
+        "path": "mirror/tetrisweeper/Build/Tetrisweeper 1.8.8 HTML Brotli.data.unityweb.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/tetrisweeper/Build/Tetrisweeper 1.8.8 HTML Brotli.data.unityweb.part002",
+        "size": 47693180
+      }
+    ]
+  },
+  "mirror/the-binding-of-issac-rebirth/tboirpsp0301.iso": {
+    "size": 134742016,
+    "parts": [
+      {
+        "path": "mirror/the-binding-of-issac-rebirth/tboirpsp0301.iso.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/the-binding-of-issac-rebirth/tboirpsp0301.iso.part002",
+        "size": 44742016
+      }
+    ]
+  },
+  "mirror/ambidextro/Ambidextro.pck": {
+    "size": 108624688,
+    "parts": [
+      {
+        "path": "mirror/ambidextro/Ambidextro.pck.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/ambidextro/Ambidextro.pck.part002",
+        "size": 18624688
+      }
+    ]
+  },
+  "mirror/grand-theft-auto-vice-city/vcbr/vc-sky-en-v6.data": {
+    "size": 135355111,
+    "parts": [
+      {
+        "path": "mirror/grand-theft-auto-vice-city/vcbr/vc-sky-en-v6.data.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/grand-theft-auto-vice-city/vcbr/vc-sky-en-v6.data.part002",
+        "size": 45355111
+      }
+    ]
+  },
+  "mirror/black-hole-fishing/index.pck": {
+    "size": 115777908,
+    "parts": [
+      {
+        "path": "mirror/black-hole-fishing/index.pck.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/black-hole-fishing/index.pck.part002",
+        "size": 25777908
+      }
+    ]
+  }
+}

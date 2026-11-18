@@ -1,0 +1,87 @@
+{
+  "slug": "ambidextro",
+  "title": "Ambidextro",
+  "type": "HTML",
+  "developer": "Majorariatto",
+  "description": "A witch has kidnapped the prince and the princess. As the royal wizard, you have been severed in half so you can go rescue both at the same time, but first you'll need to learn to control the two halves of your body simultaneously. With a series of quick single-screen platforming levels, Ambidextro will help you master controlling two characters at once, one with each hand. Learn to split your focus and tackle increasingly challenging levels you would have thought impossible. Â· A multi-player game for a single player. Â· Control one character with each hand. Â· Make your two-halves meet before the time runs out. Â· 100 levels to conquer. Â· Retro dark-fantasy atmosphere with a dungeon synth soundtrack.",
+  "tags": [
+    "Platformer",
+    "2D Platformer",
+    "Difficult",
+    "Action",
+    "Indie",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "066d0d10-f5e8-41b5-8336-9ddb27e8b122",
+  "sourceVersion": "1.1.11",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/066d0d10-f5e8-41b5-8336-9ddb27e8b122/1.1.11/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/066d0d10-f5e8-41b5-8336-9ddb27e8b122/1.1.11/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/066d0d10-f5e8-41b5-8336-9ddb27e8b122/1.1.11/index.html",
+  "status": "done",
+  "sizeBytes": 151994725,
+  "assetCount": 14,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/066d0d10-f5e8-41b5-8336-9ddb27e8b122/1.1.11/.audio.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/066d0d10-f5e8-41b5-8336-9ddb27e8b122/1.1.11/.worker.js",
+    "https://playobsidian.com/cdn/assets/html/066d0d10-f5e8-41b5-8336-9ddb27e8b122/1.1.11/godot.audio.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/066d0d10-f5e8-41b5-8336-9ddb27e8b122/1.1.11/.js",
+    "https://playobsidian.com/cdn/assets/html/066d0d10-f5e8-41b5-8336-9ddb27e8b122/1.1.11/.wasm",
+    "https://playobsidian.com/cdn/assets/html/066d0d10-f5e8-41b5-8336-9ddb27e8b122/1.1.11/.side.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/066d0d10-f5e8-41b5-8336-9ddb27e8b122/1.1.11/.audio.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/066d0d10-f5e8-41b5-8336-9ddb27e8b122/1.1.11/.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/066d0d10-f5e8-41b5-8336-9ddb27e8b122/1.1.11/.worker.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/066d0d10-f5e8-41b5-8336-9ddb27e8b122/1.1.11/.worker.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/066d0d10-f5e8-41b5-8336-9ddb27e8b122/1.1.11/godot.audio.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/066d0d10-f5e8-41b5-8336-9ddb27e8b122/1.1.11/godot.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/066d0d10-f5e8-41b5-8336-9ddb27e8b122/1.1.11/.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/066d0d10-f5e8-41b5-8336-9ddb27e8b122/1.1.11/.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/066d0d10-f5e8-41b5-8336-9ddb27e8b122/1.1.11/.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/066d0d10-f5e8-41b5-8336-9ddb27e8b122/1.1.11/.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/066d0d10-f5e8-41b5-8336-9ddb27e8b122/1.1.11/.side.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/066d0d10-f5e8-41b5-8336-9ddb27e8b122/1.1.11/.side.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:16:10.518Z",
+  "verifiedAt": "2026-11-16T12:51:59.079Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Ambidextro (DEBUG)",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 341,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}

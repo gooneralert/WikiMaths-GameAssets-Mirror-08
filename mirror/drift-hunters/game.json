@@ -1,0 +1,332 @@
+{
+  "slug": "drift-hunters",
+  "title": "Drift Hunters",
+  "type": "HTML",
+  "developer": "Ilya Kaminetsky",
+  "description": "Race on numerous challenging and crazy racetracks and customize your supercars! In Drift Hunters, players will enjoy the  driving experience of a real sports car. You can tune-up the engine, transmission, turbocharger, brakes, and more. Try to find your perfect setup. You can also change the colors and types of the body and rims.",
+  "tags": [
+    "Action",
+    "Driving",
+    "Simulation",
+    "Open World",
+    "Physics"
+  ],
+  "controls": [
+    {
+      "action": "Accelerate",
+      "keys": [
+        {
+          "key": "ArrowUp",
+          "keyCode": 38
+        },
+        {
+          "key": "KeyW",
+          "keyCode": 87
+        }
+      ]
+    },
+    {
+      "action": "Reverse",
+      "keys": [
+        {
+          "key": "ArrowDown",
+          "keyCode": 40
+        },
+        {
+          "key": "KeyS",
+          "keyCode": 83
+        }
+      ]
+    },
+    {
+      "action": "Turn Right",
+      "keys": [
+        {
+          "key": "ArrowRight",
+          "keyCode": 39
+        },
+        {
+          "key": "KeyD",
+          "keyCode": 68
+        }
+      ]
+    },
+    {
+      "action": "Turn Left",
+      "keys": [
+        {
+          "key": "ArrowLeft",
+          "keyCode": 37
+        },
+        {
+          "key": "KeyA",
+          "keyCode": 65
+        }
+      ]
+    },
+    {
+      "action": "Change Camera",
+      "keys": [
+        {
+          "key": "KeyC",
+          "keyCode": 67
+        }
+      ]
+    },
+    {
+      "action": "Break",
+      "keys": [
+        {
+          "key": "Space",
+          "keyCode": 32
+        }
+      ]
+    },
+    {
+      "action": "Gear Up",
+      "keys": [
+        {
+          "key": "ShiftLeft",
+          "keyCode": 16
+        }
+      ]
+    },
+    {
+      "action": "Gear Down",
+      "keys": [
+        {
+          "key": "ControlLeft",
+          "keyCode": 17
+        }
+      ]
+    }
+  ],
+  "gamepadControls": [
+    {
+      "action": "Accelerate",
+      "axes": [
+        {
+          "index": 1,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Reverse",
+      "axes": [
+        {
+          "index": 1,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Turn Right",
+      "axes": [
+        {
+          "index": 0,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Turn Left",
+      "axes": [
+        {
+          "index": 0,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Change Camera",
+      "buttons": [
+        2
+      ]
+    },
+    {
+      "action": "Break",
+      "buttons": [
+        1
+      ]
+    },
+    {
+      "action": "Gear Up",
+      "buttons": [
+        6
+      ]
+    },
+    {
+      "action": "Gear Down",
+      "buttons": [
+        7
+      ]
+    }
+  ],
+  "controllerSupport": false,
+  "sourceId": "9372969a-79d5-4836-892f-2454fd2d3dbd",
+  "sourceVersion": "1.2",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/index.html",
+  "status": "done",
+  "sizeBytes": 141172176,
+  "assetCount": 26,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/TemplateData/favicon.ico",
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/TemplateData/progressEmpty.Dark.png",
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/TemplateData/progressLogo.Dark.png",
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/TemplateData/progressFull.Dark.png",
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/TemplateData/webgl-logo.png",
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/TemplateData/fullscreen.png",
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/inflate.js",
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/zlib/inflate.js",
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/zlib/constants.js",
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/utils/strings.js",
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/zlib/messages.js",
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/zlib/zstream.js",
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/zlib/inftrees.js",
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/decode.js",
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/dictionary.bin.js",
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/dictionary.js",
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/dictionary-browser.js",
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dictionary.bin.js",
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/huffman.js",
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/streams.js",
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/prefix.js",
+    "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/transform.js"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/TemplateData/favicon.ico",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/TemplateData/favicon.ico",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/TemplateData/progressEmpty.Dark.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/TemplateData/progressEmpty.Dark.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/TemplateData/progressLogo.Dark.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/TemplateData/progressLogo.Dark.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/TemplateData/progressFull.Dark.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/TemplateData/progressFull.Dark.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/TemplateData/webgl-logo.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/TemplateData/webgl-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/TemplateData/fullscreen.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/TemplateData/fullscreen.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/inflate.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/zlib/inflate.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/zlib/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/zlib/constants.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/zlib/constants.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/utils/strings.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/utils/strings.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/zlib/messages.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/zlib/messages.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/zlib/zstream.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/zlib/zstream.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/zlib/inftrees.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/zlib/inftrees.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/decode.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/decode.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/dictionary.bin.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/dictionary.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/dictionary.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/dictionary-browser.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/dictionary-browser.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dictionary.bin.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/huffman.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/huffman.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/streams.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/streams.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/prefix.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/prefix.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/transform.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9372969a-79d5-4836-892f-2454fd2d3dbd/1.2/Build/dec/transform.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T09:50:08.863Z",
+  "verifiedAt": "2026-11-16T15:25:15.757Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Unity WebGL Player | Drift Hunters",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1249,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9819,
+    "rendered": true
+  }
+}
