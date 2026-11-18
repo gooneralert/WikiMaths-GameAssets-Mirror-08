@@ -1,0 +1,317 @@
+{
+  "slug": "pikuniku",
+  "title": "Pikuniku",
+  "type": "HTML",
+  "developer": "Sectordub",
+  "description": "Pikuniku is an absurdly wonderful puzzle-exploration game that takes place in a strange but playful world where not everything is as happy as it seems. Help peculiar characters overcome struggles, uncover a deep state conspiracy, and start a little revolution in this delightful dystopian adventure!",
+  "tags": [
+    "2D",
+    "Adventure",
+    "Puzzle",
+    "Stylized",
+    "Story Rich",
+    "Indie"
+  ],
+  "controls": [
+    {
+      "action": "Pause",
+      "keys": [
+        {
+          "key": "KeyP",
+          "keyCode": 80
+        }
+      ]
+    },
+    {
+      "action": "Inventory",
+      "keys": [
+        {
+          "key": "KeyH",
+          "keyCode": 72
+        }
+      ]
+    },
+    {
+      "action": "Jump",
+      "keys": [
+        {
+          "key": "ArrowUp",
+          "keyCode": 38
+        }
+      ]
+    },
+    {
+      "action": "Move Left",
+      "keys": [
+        {
+          "key": "ArrowLeft",
+          "keyCode": 37
+        }
+      ]
+    },
+    {
+      "action": "Move Right",
+      "keys": [
+        {
+          "key": "ArrowRight",
+          "keyCode": 39
+        }
+      ]
+    },
+    {
+      "action": "Dialogue",
+      "keys": [
+        {
+          "key": "KeyZ",
+          "keyCode": 90
+        }
+      ]
+    },
+    {
+      "action": "Action/Kick",
+      "keys": [
+        {
+          "key": "KeyC",
+          "keyCode": 67
+        }
+      ]
+    },
+    {
+      "action": "Roll",
+      "keys": [
+        {
+          "key": "KeyX",
+          "keyCode": 88
+        }
+      ]
+    }
+  ],
+  "gamepadControls": [
+    {
+      "action": "Pause",
+      "buttons": [
+        9
+      ]
+    },
+    {
+      "action": "Inventory",
+      "buttons": [
+        4
+      ]
+    },
+    {
+      "action": "Jump",
+      "buttons": [
+        0
+      ]
+    },
+    {
+      "action": "Move Left",
+      "buttons": [
+        14
+      ],
+      "axes": [
+        {
+          "index": 0,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Move Right",
+      "buttons": [
+        15
+      ],
+      "axes": [
+        {
+          "index": 0,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Dialogue",
+      "buttons": [
+        3
+      ]
+    },
+    {
+      "action": "Action/Kick",
+      "buttons": [
+        2
+      ]
+    },
+    {
+      "action": "Roll",
+      "buttons": [
+        1
+      ]
+    }
+  ],
+  "controllerSupport": false,
+  "sourceId": "1751d95c-ffe0-4918-a293-b9c24c79652d",
+  "sourceVersion": "1.1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/index.html",
+  "status": "done",
+  "sizeBytes": 141398503,
+  "assetCount": 24,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/TemplateData/progressEmpty.Light.png",
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/TemplateData/progressLogo.Light.png",
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/TemplateData/progressFull.Light.png",
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/inflate.js",
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/TemplateData/webgl-logo.png",
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/TemplateData/fullscreen.png",
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/utils/strings.js",
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/zlib/inflate.js",
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/zlib/constants.js",
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/zlib/messages.js",
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/zlib/zstream.js",
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/zlib/inftrees.js",
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/decode.js",
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/dictionary.js",
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/dictionary-browser.js",
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/dictionary.bin.js",
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/huffman.js",
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dictionary.bin.js",
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/prefix.js",
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/streams.js",
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/transform.js",
+    "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/.unityweb"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/TemplateData/progressEmpty.Light.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/TemplateData/progressEmpty.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/TemplateData/progressLogo.Light.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/TemplateData/progressLogo.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/TemplateData/progressFull.Light.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/TemplateData/progressFull.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/inflate.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/TemplateData/webgl-logo.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/TemplateData/webgl-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/TemplateData/fullscreen.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/TemplateData/fullscreen.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/utils/strings.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/utils/strings.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/zlib/inflate.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/zlib/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/zlib/constants.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/zlib/constants.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/zlib/messages.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/zlib/messages.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/zlib/zstream.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/zlib/zstream.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/zlib/inftrees.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/zlib/inftrees.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/decode.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/decode.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/dictionary.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/dictionary.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/dictionary-browser.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/dictionary-browser.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/dictionary.bin.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/huffman.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/huffman.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dictionary.bin.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/prefix.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/prefix.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/streams.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/streams.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/transform.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/dec/transform.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/.unityweb",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1751d95c-ffe0-4918-a293-b9c24c79652d/1.1/Build/.unityweb",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T09:57:31.566Z",
+  "verifiedAt": "2026-11-16T15:53:28.770Z",
+  "verification": {
+    "external": 2,
+    "blocking": 0,
+    "ignoredExternal": 2,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Pikuniku",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9833,
+    "rendered": true
+  }
+}

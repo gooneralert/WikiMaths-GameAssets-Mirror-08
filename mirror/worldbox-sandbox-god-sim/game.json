@@ -1,0 +1,82 @@
+{
+  "slug": "worldbox-sandbox-god-sim",
+  "title": "WorldBox - Sandbox God Sim",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/worldbox/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/worldbox/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/worldboxsandboxgodsim.webp",
+  "baseUrl": "https://truffled.lol/games/worldbox/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/worldbox/index.html",
+  "status": "done",
+  "sizeBytes": 138811995,
+  "assetCount": 46,
+  "known404": [
+    "https://truffled.lol/WorldFox.data",
+    "https://truffled.lol/WorldFox.wasm",
+    "https://truffled.lol/WorldFox.framework.js",
+    "https://truffled.lol/WorldFox.loader.js",
+    "https://truffled.lol/split-files.json",
+    "https://truffled.lol/games/worldbox/Build/build.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/WorldFox.data",
+      "error": "HTTP 404 for https://truffled.lol/WorldFox.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/WorldFox.wasm",
+      "error": "HTTP 404 for https://truffled.lol/WorldFox.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/WorldFox.framework.js",
+      "error": "HTTP 404 for https://truffled.lol/WorldFox.framework.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/WorldFox.loader.js",
+      "error": "HTTP 404 for https://truffled.lol/WorldFox.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/split-files.json",
+      "error": "HTTP 404 for https://truffled.lol/split-files.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/worldbox/Build/build.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/worldbox/Build/build.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T05:33:46.055Z",
+  "verifiedAt": "2026-11-18T05:34:01.818Z",
+  "verification": {
+    "external": 2,
+    "blocking": 0,
+    "ignoredExternal": 2,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Unity WebGL Player | WorldBox",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9996,
+    "rendered": true
+  }
+}

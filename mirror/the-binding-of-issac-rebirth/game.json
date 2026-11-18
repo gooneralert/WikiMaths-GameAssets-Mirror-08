@@ -1,0 +1,118 @@
+{
+  "slug": "the-binding-of-issac-rebirth",
+  "title": "The Binding Of Issac: Rebirth",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/psp/tboir/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/psp/tboir/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/tboir.webp",
+  "baseUrl": "https://truffled.lol/games/psp/tboir/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/psp/tboir/index.html",
+  "status": "done",
+  "sizeBytes": 151197363,
+  "assetCount": 30,
+  "known404": [
+    "https://truffled.lol/games/psp/tboir/emulator.js",
+    "https://truffled.lol/games/psp/tboir/storage.js",
+    "https://truffled.lol/games/psp/tboir/shaders.js",
+    "https://truffled.lol/games/psp/tboir/nipplejs.js",
+    "https://truffled.lol/games/psp/tboir/gamepad.js",
+    "https://truffled.lol/games/psp/tboir/GameManager.js",
+    "https://truffled.lol/games/psp/tboir/compression.js",
+    "https://truffled.lol/games/psp/tboir/socket.io.min.js",
+    "https://truffled.lol/games/psp/tboir/emulator.min.js",
+    "https://truffled.lol/games/psp/tboir/emulator.css",
+    "https://truffled.lol/games/psp/tboir/emulator.min.css",
+    "https://truffled.lol/extra/data/compression/1.zip"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/psp/tboir/emulator.js",
+      "error": "HTTP 404 for https://truffled.lol/games/psp/tboir/emulator.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/psp/tboir/storage.js",
+      "error": "HTTP 404 for https://truffled.lol/games/psp/tboir/storage.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/psp/tboir/shaders.js",
+      "error": "HTTP 404 for https://truffled.lol/games/psp/tboir/shaders.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/psp/tboir/nipplejs.js",
+      "error": "HTTP 404 for https://truffled.lol/games/psp/tboir/nipplejs.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/psp/tboir/gamepad.js",
+      "error": "HTTP 404 for https://truffled.lol/games/psp/tboir/gamepad.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/psp/tboir/GameManager.js",
+      "error": "HTTP 404 for https://truffled.lol/games/psp/tboir/GameManager.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/psp/tboir/compression.js",
+      "error": "HTTP 404 for https://truffled.lol/games/psp/tboir/compression.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/psp/tboir/socket.io.min.js",
+      "error": "HTTP 404 for https://truffled.lol/games/psp/tboir/socket.io.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/psp/tboir/emulator.min.js",
+      "error": "HTTP 404 for https://truffled.lol/games/psp/tboir/emulator.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/psp/tboir/emulator.css",
+      "error": "HTTP 404 for https://truffled.lol/games/psp/tboir/emulator.css",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/psp/tboir/emulator.min.css",
+      "error": "HTTP 404 for https://truffled.lol/games/psp/tboir/emulator.min.css",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/extra/data/compression/1.zip",
+      "error": "HTTP 404 for https://truffled.lol/extra/data/compression/1.zip",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T00:45:20.326Z",
+  "verifiedAt": "2026-11-18T00:46:26.645Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "The Binding of Isaac: Rebirth (PSP)",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 480,
+      "height": 272
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.992,
+    "rendered": true
+  }
+}
